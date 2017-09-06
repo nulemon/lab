@@ -1,0 +1,32 @@
+สูตรเกม DOTA สาย เงิน สร้างเร็ว พลัง อมตะ
+warpten	สร้างเร็ว
+greedisgood 1000000	ตรงตัวเลขนั้น ให้เราพิมพ์จำนวนเงินที่ต้องการเลยนะ
+iocainepowder	หายนะบังเกิด(กับผู้เล่น)
+itvexesme	ยังไงก็ไม่ชนะ
+strengthandHonor	ยังไงก็ไม่แพ้
+riseandshine	ตั้งให้เป็นตอนกลางวัน
+ilghtsout	ตั้งให้เป็นกลางคืน
+sharpandshiny	เพิ่มพัฒนาการอีก 1 ขั้น
+synergy	สามารถสร้างสิ่งของที่ต้องการ
+Iseedeadpeople	เปิดแผนที่
+whosyourdaddy	อมตะและโจมตีครั้งเดียวก็ตาย
+allyourbasearebelongtous	ชนะฉากที่เล่น
+somebodysetupusthebomb	แพ้ฉากที่เล่น
+PointBreak	สร้างคนได้เกินค่าอาหาร
+TheDudeAbides	ไม่มี cooldown
+-gold	เพิ่มเงินให้กับตัวเอง (ตรงนี้ดูดีๆ อย่าลืมใส่ – ก่อนพิมพ์ด้วยหล่ะ)
+-lvlup xx	เพิ่ม Lv ให้กับ Hero ของตัวเอง (xx แทนที่ด้วยจำนวน Lv ที่ต้องการ เช่น -lvlup 25)
+-noherolimit	สามารถควบคุม Hero ได้ไม่จำกัด
+สูตรเกม DOTA สายเสริมออฟชั่นและฉาก
+-repick	จากการ Random Hero การ repick จะเป็นการสุ่ม Hero ใหม่ ได้ 1 ครั้ง โหมด ap ถ้าคุณ random และ repick จะเสียเงิน 150 โหมด ar ถ้า repick เสียเงิน 400
+-matchup / -ma	ดูว่าฝั่งตรงข้ามเลือก Hero อะไรไปบ้าง
+-movespeed / -ms	ดูความเร็วการเคลื่อนที่
+-unstuck	รอ 60 วิ หลังจากนั้น Hero จะวาปกลับฐาน (ใช้ตอนติดต้นไม้ ตกเขา)
+-recreate	ลบการผิดปรกติ เวลาControlตัวเองไม่ได้ สำหรับ Niax Terrorblade Dragon Knight และ Banehallow โดยการรอ 200วิ
+-disablehelp	ทำให้ Chen ส่งเพือนกลับบ้านไม่ได้
+-enablehelp	ถ้า คุณ-disablehelpแล้วพืมพ์ enablehelp จะทำให้ Chen สามารถส่งคุณกลับบ้านได้
+-creepstats / -cs	ดูว่าคุณจัดการ ลูกน้องไปกี่ตัวแล้ว
+-refresh	สำหรับ Phantom assasin ใช้หลังจากตายแล้วไม่หายตัว
+-csboardon	ตั้ง ที่นับ ครีบศัตรูที่จัดการ/ครีบฝั่งเราที่จัดการ
+-csboardoff	ซ่อน ที่นับ ครีบศัตรูที่จัดการ/ครีบฝั่งเราที่จัดการ
+-swaphero	เปลี่ยน Hero กับคนในทีมภายใน 90 วิแรก หน้าต่างตอบรับจะปรากฏต่อคนที่คุณต้องการแลก เพื่อเลือกปฏิเสธรับ
